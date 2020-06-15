@@ -159,6 +159,8 @@ void reInitLog(bool hodnota) {
   }
 
 //INIT FUNCT HERE
+//************************************************
+//
 enum mgos_app_init_result mgos_app_init(void) {
   char buf[8];
   
